@@ -5,9 +5,9 @@
 
 html, body {
     font-family: SF-Pro_Display, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
-    color: #424551;
+    color: #153522;
     line-height: 160%;
-    background-color: #F7F7F7;
+    background-color: #b19c9c;
   }
 
 .wrapper {
@@ -25,11 +25,11 @@ html, body {
   }
 
 .tittles{
-    color: var(--brand-color, #3D3D4A);
-    font-size: 62px;
+    color: var(--brand-color, #3838be);
+    font-size: 50px;
     font-style: normal;
-    font-weight: 300;
-    line-height: 120%;
+	font-weight: 300;
+    line-height: 130%;
 }
 
 .button {
